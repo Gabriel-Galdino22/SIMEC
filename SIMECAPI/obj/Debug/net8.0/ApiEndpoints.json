@@ -1,0 +1,312 @@
+[
+  {
+    "ContainingType": "SIMECAPI.Controllers.ApartamentoController",
+    "Method": "GetAllApartamentos",
+    "RelativePath": "api/Apartamento",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.ApartamentoController",
+    "Method": "AddApartamento",
+    "RelativePath": "api/Apartamento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "apartamento",
+        "Type": "SIMECAPI.Models.Apartamento",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.ApartamentoController",
+    "Method": "GetApartamentoById",
+    "RelativePath": "api/Apartamento/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.ApartamentoController",
+    "Method": "UpdateApartamento",
+    "RelativePath": "api/Apartamento/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "apartamento",
+        "Type": "SIMECAPI.Models.Apartamento",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.ApartamentoController",
+    "Method": "DeleteApartamento",
+    "RelativePath": "api/Apartamento/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.ConsumoEnergiaController",
+    "Method": "GetAllConsumos",
+    "RelativePath": "api/ConsumoEnergia",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.ConsumoEnergiaController",
+    "Method": "AddConsumo",
+    "RelativePath": "api/ConsumoEnergia",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "consumo",
+        "Type": "SIMECAPI.Models.ConsumoEnergia",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.ConsumoEnergiaController",
+    "Method": "GetConsumoById",
+    "RelativePath": "api/ConsumoEnergia/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.ConsumoEnergiaController",
+    "Method": "UpdateConsumo",
+    "RelativePath": "api/ConsumoEnergia/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "consumo",
+        "Type": "SIMECAPI.Models.ConsumoEnergia",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.ConsumoEnergiaController",
+    "Method": "DeleteConsumo",
+    "RelativePath": "api/ConsumoEnergia/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.DicaSustentabilidadeController",
+    "Method": "GetAllDicas",
+    "RelativePath": "api/DicaSustentabilidade",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.DicaSustentabilidadeController",
+    "Method": "AddDica",
+    "RelativePath": "api/DicaSustentabilidade",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dica",
+        "Type": "SIMECAPI.Models.DicaSustentabilidade",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.DicaSustentabilidadeController",
+    "Method": "GetDicaById",
+    "RelativePath": "api/DicaSustentabilidade/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.IAController",
+    "Method": "GerarRecomendacao",
+    "RelativePath": "api/IA/Recomendar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "consumoAtual",
+        "Type": "SIMECAPI.Models.ConsumoEnergia",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.IAController",
+    "Method": "TreinarModelo",
+    "RelativePath": "api/IA/Treinar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.MoedaController",
+    "Method": "GetAllMoedas",
+    "RelativePath": "api/Moeda",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.MoedaController",
+    "Method": "AddMoeda",
+    "RelativePath": "api/Moeda",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "moeda",
+        "Type": "SIMECAPI.Models.Moeda",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.MoedaController",
+    "Method": "GetMoedaById",
+    "RelativePath": "api/Moeda/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.UsuarioController",
+    "Method": "GetAllUsuarios",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.UsuarioController",
+    "Method": "AddUsuario",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "SIMECAPI.Models.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SIMECAPI.Controllers.UsuarioController",
+    "Method": "GetUsuarioById",
+    "RelativePath": "api/Usuario/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

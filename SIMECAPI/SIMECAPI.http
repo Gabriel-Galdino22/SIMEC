@@ -1,0 +1,6 @@
+@SIMECAPI_HostAddress = http://localhost:5298
+
+GET {{SIMECAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

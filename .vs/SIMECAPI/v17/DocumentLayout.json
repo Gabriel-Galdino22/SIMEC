@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SIMECAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\1 - application\\interafaces\\iarecomendacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\1 - application\\interafaces\\iarecomendacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\0 - presentation\\controllers\\iacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\0 - presentation\\controllers\\iacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\1 - application\\services\\consumoenergiadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\1 - application\\services\\consumoenergiadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\2 - domain\\interfaces\\iapartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\2 - domain\\interfaces\\iapartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\3 - infraestructure\\data\\appdata\\simeccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\3 - infraestructure\\data\\appdata\\simeccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\1 - application\\interafaces\\iiarecomendacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\1 - application\\interafaces\\iiarecomendacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\1 - application\\services\\consumoprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\1 - application\\services\\consumoprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\simecapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\simecapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\2 - domain\\models\\dicasustentabilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\2 - domain\\models\\dicasustentabilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\2 - domain\\models\\consumoenergia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\2 - domain\\models\\consumoenergia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\2 - domain\\models\\apartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\2 - domain\\models\\apartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}|SIMECAPI.Tests\\SIMECAPI.Tests.csproj|d:\\simecapi\\simecapi.tests\\controllertests\\usuariocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}|SIMECAPI.Tests\\SIMECAPI.Tests.csproj|solutionrelative:simecapi.tests\\controllertests\\usuariocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}|SIMECAPI.Tests\\SIMECAPI.Tests.csproj|d:\\simecapi\\simecapi.tests\\controllertests\\moedacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}|SIMECAPI.Tests\\SIMECAPI.Tests.csproj|solutionrelative:simecapi.tests\\controllertests\\moedacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\0 - presentation\\controllers\\dicasustentabilidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\0 - presentation\\controllers\\dicasustentabilidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}|SIMECAPI.Tests\\SIMECAPI.Tests.csproj|d:\\simecapi\\simecapi.tests\\controllertests\\dicasustentabilidadecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}|SIMECAPI.Tests\\SIMECAPI.Tests.csproj|solutionrelative:simecapi.tests\\controllertests\\dicasustentabilidadecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\0 - presentation\\controllers\\moedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\0 - presentation\\controllers\\moedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}|SIMECAPI.Tests\\SIMECAPI.Tests.csproj|d:\\simecapi\\simecapi.tests\\controllertests\\consumoenergiacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}|SIMECAPI.Tests\\SIMECAPI.Tests.csproj|solutionrelative:simecapi.tests\\controllertests\\consumoenergiacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}|SIMECAPI.Tests\\SIMECAPI.Tests.csproj|d:\\simecapi\\simecapi.tests\\controllertests\\apartamentocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}|SIMECAPI.Tests\\SIMECAPI.Tests.csproj|solutionrelative:simecapi.tests\\controllertests\\apartamentocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\2 - domain\\models\\moeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\2 - domain\\models\\moeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\2 - domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\2 - domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\3 - infraestructure\\data\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\3 - infraestructure\\data\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\3 - infraestructure\\data\\repositories\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\3 - infraestructure\\data\\repositories\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\3 - infraestructure\\data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\3 - infraestructure\\data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\3 - infraestructure\\data\\repositories\\moedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\3 - infraestructure\\data\\repositories\\moedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\2 - domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\2 - domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\2 - domain\\interfaces\\imoedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\2 - domain\\interfaces\\imoedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\2 - domain\\interfaces\\idicasustentabilidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\2 - domain\\interfaces\\idicasustentabilidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\2 - domain\\interfaces\\iconsumoenergiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\2 - domain\\interfaces\\iconsumoenergiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\3 - infraestructure\\data\\repositories\\dicasustentabilidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\3 - infraestructure\\data\\repositories\\dicasustentabilidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\3 - infraestructure\\data\\repositories\\consumoenergiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\3 - infraestructure\\data\\repositories\\consumoenergiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\3 - infraestructure\\data\\repositories\\apartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\3 - infraestructure\\data\\repositories\\apartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\0 - presentation\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\0 - presentation\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\0 - presentation\\controllers\\consumoenergiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\0 - presentation\\controllers\\consumoenergiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\0 - presentation\\controllers\\apartamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\0 - presentation\\controllers\\apartamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|d:\\simecapi\\simecapi\\simecapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A89A4F9-7979-4277-86CE-9B5B71AC7157}|SIMECAPI\\SIMECAPI.csproj|solutionrelative:simecapi\\simecapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAController.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\0 - Presentation\\Controllers\\IAController.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\0 - Presentation\\Controllers\\IAController.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\0 - Presentation\\Controllers\\IAController.cs",
+              "RelativeToolTip": "SIMECAPI\\0 - Presentation\\Controllers\\IAController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:15:28.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IIARecomendacaoService.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\1 - Application\\Interafaces\\IIARecomendacaoService.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\1 - Application\\Interafaces\\IIARecomendacaoService.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\1 - Application\\Interafaces\\IIARecomendacaoService.cs",
+              "RelativeToolTip": "SIMECAPI\\1 - Application\\Interafaces\\IIARecomendacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:53:30.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IARecomendacaoService.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\1 - Application\\Interafaces\\IARecomendacaoService.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\1 - Application\\Interafaces\\IARecomendacaoService.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\1 - Application\\Interafaces\\IARecomendacaoService.cs",
+              "RelativeToolTip": "SIMECAPI\\1 - Application\\Interafaces\\IARecomendacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:14:44.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsumoEnergiaControllerTests.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI.Tests\\ControllerTests\\ConsumoEnergiaControllerTests.cs",
+              "RelativeDocumentMoniker": "SIMECAPI.Tests\\ControllerTests\\ConsumoEnergiaControllerTests.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI.Tests\\ControllerTests\\ConsumoEnergiaControllerTests.cs",
+              "RelativeToolTip": "SIMECAPI.Tests\\ControllerTests\\ConsumoEnergiaControllerTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:44:54.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IApartamentoRepository.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Interfaces\\IApartamentoRepository.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\2 - Domain\\Interfaces\\IApartamentoRepository.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Interfaces\\IApartamentoRepository.cs",
+              "RelativeToolTip": "SIMECAPI\\2 - Domain\\Interfaces\\IApartamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:40:44.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SIMECContext.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\AppData\\SIMECContext.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\3 - Infraestructure\\Data\\AppData\\SIMECContext.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\AppData\\SIMECContext.cs",
+              "RelativeToolTip": "SIMECAPI\\3 - Infraestructure\\Data\\AppData\\SIMECContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:22:27.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\Program.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\Program.cs",
+              "RelativeToolTip": "SIMECAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:27:09.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsumoEnergiaData.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\1 - Application\\Services\\ConsumoEnergiaData.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\1 - Application\\Services\\ConsumoEnergiaData.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\1 - Application\\Services\\ConsumoEnergiaData.cs",
+              "RelativeToolTip": "SIMECAPI\\1 - Application\\Services\\ConsumoEnergiaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:33:11.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DicaSustentabilidadeControllerTests.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI.Tests\\ControllerTests\\DicaSustentabilidadeControllerTests.cs",
+              "RelativeDocumentMoniker": "SIMECAPI.Tests\\ControllerTests\\DicaSustentabilidadeControllerTests.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI.Tests\\ControllerTests\\DicaSustentabilidadeControllerTests.cs",
+              "RelativeToolTip": "SIMECAPI.Tests\\ControllerTests\\DicaSustentabilidadeControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:45:41.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SIMECAPI.http",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\SIMECAPI.http",
+              "RelativeDocumentMoniker": "SIMECAPI\\SIMECAPI.http",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\SIMECAPI.http",
+              "RelativeToolTip": "SIMECAPI\\SIMECAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-21T17:48:30.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsumoPrediction.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\1 - Application\\Services\\ConsumoPrediction.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\1 - Application\\Services\\ConsumoPrediction.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\1 - Application\\Services\\ConsumoPrediction.cs",
+              "RelativeToolTip": "SIMECAPI\\1 - Application\\Services\\ConsumoPrediction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:48:06.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DicaSustentabilidade.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Models\\DicaSustentabilidade.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\2 - Domain\\Models\\DicaSustentabilidade.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Models\\DicaSustentabilidade.cs",
+              "RelativeToolTip": "SIMECAPI\\2 - Domain\\Models\\DicaSustentabilidade.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:25:38.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsumoEnergia.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Models\\ConsumoEnergia.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\2 - Domain\\Models\\ConsumoEnergia.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Models\\ConsumoEnergia.cs",
+              "RelativeToolTip": "SIMECAPI\\2 - Domain\\Models\\ConsumoEnergia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:25:06.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Apartamento.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Models\\Apartamento.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\2 - Domain\\Models\\Apartamento.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Models\\Apartamento.cs",
+              "RelativeToolTip": "SIMECAPI\\2 - Domain\\Models\\Apartamento.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:24:47.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MoedaControllerTests.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI.Tests\\ControllerTests\\MoedaControllerTests.cs",
+              "RelativeDocumentMoniker": "SIMECAPI.Tests\\ControllerTests\\MoedaControllerTests.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI.Tests\\ControllerTests\\MoedaControllerTests.cs",
+              "RelativeToolTip": "SIMECAPI.Tests\\ControllerTests\\MoedaControllerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:46:23.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioControllerTests.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI.Tests\\ControllerTests\\UsuarioControllerTests.cs",
+              "RelativeDocumentMoniker": "SIMECAPI.Tests\\ControllerTests\\UsuarioControllerTests.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI.Tests\\ControllerTests\\UsuarioControllerTests.cs",
+              "RelativeToolTip": "SIMECAPI.Tests\\ControllerTests\\UsuarioControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:46:54.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApartamentoControllerTests.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI.Tests\\ControllerTests\\ApartamentoControllerTests.cs",
+              "RelativeDocumentMoniker": "SIMECAPI.Tests\\ControllerTests\\ApartamentoControllerTests.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI.Tests\\ControllerTests\\ApartamentoControllerTests.cs",
+              "RelativeToolTip": "SIMECAPI.Tests\\ControllerTests\\ApartamentoControllerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:38:37.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DicaSustentabilidadeController.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\0 - Presentation\\Controllers\\DicaSustentabilidadeController.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\0 - Presentation\\Controllers\\DicaSustentabilidadeController.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\0 - Presentation\\Controllers\\DicaSustentabilidadeController.cs",
+              "RelativeToolTip": "SIMECAPI\\0 - Presentation\\Controllers\\DicaSustentabilidadeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:49:07.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MoedaController.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\0 - Presentation\\Controllers\\MoedaController.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\0 - Presentation\\Controllers\\MoedaController.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\0 - Presentation\\Controllers\\MoedaController.cs",
+              "RelativeToolTip": "SIMECAPI\\0 - Presentation\\Controllers\\MoedaController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:49:27.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Moeda.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Models\\Moeda.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\2 - Domain\\Models\\Moeda.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Models\\Moeda.cs",
+              "RelativeToolTip": "SIMECAPI\\2 - Domain\\Models\\Moeda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:25:58.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\2 - Domain\\Models\\Usuario.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Models\\Usuario.cs",
+              "RelativeToolTip": "SIMECAPI\\2 - Domain\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:26:16.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SIMECAPI\\appsettings.json",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\appsettings.json",
+              "RelativeToolTip": "SIMECAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T17:20:38.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\Base\\Repository.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\Base\\Repository.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\Base\\Repository.cs",
+              "RelativeToolTip": "SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\Base\\Repository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:36:43.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\Base\\IRepository.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\Base\\IRepository.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\Base\\IRepository.cs",
+              "RelativeToolTip": "SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\Base\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:36:09.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:44:17.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MoedaRepository.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\MoedaRepository.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\MoedaRepository.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\MoedaRepository.cs",
+              "RelativeToolTip": "SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\MoedaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:44:06.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\2 - Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "SIMECAPI\\2 - Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:41:35.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IMoedaRepository.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Interfaces\\IMoedaRepository.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\2 - Domain\\Interfaces\\IMoedaRepository.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Interfaces\\IMoedaRepository.cs",
+              "RelativeToolTip": "SIMECAPI\\2 - Domain\\Interfaces\\IMoedaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:41:21.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IDicaSustentabilidadeRepository.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Interfaces\\IDicaSustentabilidadeRepository.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\2 - Domain\\Interfaces\\IDicaSustentabilidadeRepository.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Interfaces\\IDicaSustentabilidadeRepository.cs",
+              "RelativeToolTip": "SIMECAPI\\2 - Domain\\Interfaces\\IDicaSustentabilidadeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:41:10.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IConsumoEnergiaRepository.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Interfaces\\IConsumoEnergiaRepository.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\2 - Domain\\Interfaces\\IConsumoEnergiaRepository.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\2 - Domain\\Interfaces\\IConsumoEnergiaRepository.cs",
+              "RelativeToolTip": "SIMECAPI\\2 - Domain\\Interfaces\\IConsumoEnergiaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:40:58.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DicaSustentabilidadeRepository.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\DicaSustentabilidadeRepository.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\DicaSustentabilidadeRepository.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\DicaSustentabilidadeRepository.cs",
+              "RelativeToolTip": "SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\DicaSustentabilidadeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:43:55.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ConsumoEnergiaRepository.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\ConsumoEnergiaRepository.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\ConsumoEnergiaRepository.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\ConsumoEnergiaRepository.cs",
+              "RelativeToolTip": "SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\ConsumoEnergiaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:43:44.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApartamentoRepository.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\ApartamentoRepository.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\ApartamentoRepository.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\ApartamentoRepository.cs",
+              "RelativeToolTip": "SIMECAPI\\3 - Infraestructure\\Data\\Repositories\\ApartamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:43:16.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\0 - Presentation\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\0 - Presentation\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\0 - Presentation\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SIMECAPI\\0 - Presentation\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:49:53.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ConsumoEnergiaController.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\0 - Presentation\\Controllers\\ConsumoEnergiaController.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\0 - Presentation\\Controllers\\ConsumoEnergiaController.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\0 - Presentation\\Controllers\\ConsumoEnergiaController.cs",
+              "RelativeToolTip": "SIMECAPI\\0 - Presentation\\Controllers\\ConsumoEnergiaController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:48:47.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApartamentoController.cs",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\0 - Presentation\\Controllers\\ApartamentoController.cs",
+              "RelativeDocumentMoniker": "SIMECAPI\\0 - Presentation\\Controllers\\ApartamentoController.cs",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\0 - Presentation\\Controllers\\ApartamentoController.cs",
+              "RelativeToolTip": "SIMECAPI\\0 - Presentation\\Controllers\\ApartamentoController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:48:04.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SIMECAPI",
+              "DocumentMoniker": "D:\\SIMECAPI\\SIMECAPI\\SIMECAPI.csproj",
+              "RelativeDocumentMoniker": "SIMECAPI\\SIMECAPI.csproj",
+              "ToolTip": "D:\\SIMECAPI\\SIMECAPI\\SIMECAPI.csproj",
+              "RelativeToolTip": "SIMECAPI\\SIMECAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T17:32:24.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

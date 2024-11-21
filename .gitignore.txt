@@ -1,0 +1,12 @@
+# Arquivos temporários do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Arquivos de build
+bin/
+obj/
+
+# Arquivos gerados
+*.log
+*.tmp

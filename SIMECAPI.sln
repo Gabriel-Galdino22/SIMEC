@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIMECAPI", "SIMECAPI\SIMECAPI.csproj", "{4A89A4F9-7979-4277-86CE-9B5B71AC7157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIMECAPI.Tests", "SIMECAPI.Tests\SIMECAPI.Tests.csproj", "{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A89A4F9-7979-4277-86CE-9B5B71AC7157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A89A4F9-7979-4277-86CE-9B5B71AC7157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A89A4F9-7979-4277-86CE-9B5B71AC7157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A89A4F9-7979-4277-86CE-9B5B71AC7157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C70EBFB-6B88-40BA-B2C1-B90B313FAA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21C883EB-338A-40C9-8B7D-5877C3F9FE9E}
+	EndGlobalSection
+EndGlobal
